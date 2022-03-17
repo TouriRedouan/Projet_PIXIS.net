@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animations.meta
+    - Assets/Animations/Player.controller
+    - Assets/Animations/Player.controller.meta
+    - Assets/Animations/idle.anim
+    - Assets/Animations/idle.anim.meta
+    - Assets/Levels.meta
+    - Assets/Levels/Level1.unity
+    - Assets/Levels/Level1.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/PlayerMovement.cs
+    - Assets/Scripts/PlayerMovement.cs.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/characters.meta
+    - Assets/Sprites/characters/chevaleir ninja.meta
+    - Assets/Sprites/characters/chevaleir ninja/Attack1.png
+    - Assets/Sprites/characters/chevaleir ninja/Attack1.png.meta
+    - Assets/Sprites/characters/chevaleir ninja/Attack2.png
+    - Assets/Sprites/characters/chevaleir ninja/Attack2.png.meta
+    - Assets/Sprites/characters/chevaleir ninja/Death.png
+    - Assets/Sprites/characters/chevaleir ninja/Death.png.meta
+    - Assets/Sprites/characters/chevaleir ninja/Fall.png
+    - Assets/Sprites/characters/chevaleir ninja/Fall.png.meta
+    - Assets/Sprites/characters/chevaleir ninja/Idle.png
+    - Assets/Sprites/characters/chevaleir ninja/Idle.png.meta
+    - Assets/Sprites/characters/chevaleir ninja/Jump.anim
+    - Assets/Sprites/characters/chevaleir ninja/Jump.anim.meta
+    - Assets/Sprites/characters/chevaleir ninja/Jump.png
+    - Assets/Sprites/characters/chevaleir ninja/Jump.png.meta
+    - Assets/Sprites/characters/chevaleir ninja/Run.anim
+    - Assets/Sprites/characters/chevaleir ninja/Run.anim.meta
+    - Assets/Sprites/characters/chevaleir ninja/Run.png
+    - Assets/Sprites/characters/chevaleir ninja/Run.png.meta
+    - Assets/Sprites/characters/chevaleir ninja/Take Hit.png
+    - Assets/Sprites/characters/chevaleir ninja/Take Hit.png.meta
+    - Assets/Sprites/image-asset.gif
+    - Assets/Sprites/image-asset.gif.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
